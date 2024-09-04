@@ -1,7 +1,7 @@
 
 # Ubuntu with Scientific Tools
 
-This Dockerfile sets up an Ubuntu-based environment with various scientific tools installed, including `mc`, `nano`, `netcdf-bin`, `nco`, `cdo`, `hdf5-tools`, and `udunits-bin`. It also creates a specific user (`sciuser`) and prepares a working directory with volume support for output management.
+This Dockerfile sets up an Ubuntu-based environment with various scientific tools installed, including `mc`, `nano`, `netcdf-bin`, `nco`, `cdo`, and `hdf5-tools`. It also creates a specific user (`sciuser`) and prepares a working directory with volume support for output management.
 
 ## Version
 
